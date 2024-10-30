@@ -1,0 +1,11 @@
+{
+    "require": {
+        "intercom/intercom-php": "^4.4",
+        "php-http/guzzle6-adapter": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mplus\\Intercom\\Settings\\": "settings/"
+        }
+    }
+}
